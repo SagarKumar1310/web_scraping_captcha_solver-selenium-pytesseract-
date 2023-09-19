@@ -1,0 +1,13 @@
+numpy==1.25.2
+numpy==1.20.3
+numpy==1.21.5
+numpy==1.24.3
+opencv_python==4.8.0.76
+opencv_python_headless==4.8.0.76
+pandas==1.4.4
+pandas==1.4.1
+Pillow==9.2.0
+Pillow==9.4.0
+Pillow==10.0.0
+pytesseract==0.3.10
+selenium==3.141.0
